@@ -1,0 +1,43 @@
+﻿Build started 2017-12-04-星期一 21:52:39.
+     1>Project "C:\Users\11077\Desktop\exer9_17\exer_9_17.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\exer_9_17.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         f:\win10Program2\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\exer_9_17.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         f:\win10Program2\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\exer_9_17.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt exer_9_17.cpp exer_9_17Dlg.cpp
+         exer_9_17Dlg.cpp
+     1>c:\users\11077\desktop\exer9_17\exer_9_17dlg.cpp(319): warning C4101: 'pts' : unreferenced local variable
+         exer_9_17.cpp
+     1>c:\users\11077\desktop\exer9_17\exer_9_17.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 f:\win10program2\vs2010\vc\atlmfc\include\afxwin.h(5380) : see declaration of 'CWinApp::Enable3dControls'
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo".\Debug\exer_9_17.res" exer_9_17.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\exer_9_17.exe.embed.manifest.res" .\Debug\exer_9_17_manifest.rc 
+       Link:
+         f:\win10Program2\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\exer_9_17.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\exer_9_17.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\11077\Desktop\exer9_17\Debug\exer_9_17.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\exer_9_17.lib" /MACHINE:X86 .\Debug\exer_9_17.res
+         .\Debug\exer_9_17.exe.embed.manifest.res
+         .\Debug\exer_9_17.obj
+         .\Debug\exer_9_17Dlg.obj
+         .\Debug\StdAfx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\exer_9_17.exe.embed.manifest" /manifest .\Debug\exer_9_17.exe.intermediate.manifest f:\win10Program2\VS2010\VC\Include\Manifest\dpiaware.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\exer_9_17.exe.embed.manifest.res" .\Debug\exer_9_17_manifest.rc 
+       LinkEmbedManifest:
+         f:\win10Program2\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\exer_9_17.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\exer_9_17.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\11077\Desktop\exer9_17\Debug\exer_9_17.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\exer_9_17.lib" /MACHINE:X86 .\Debug\exer_9_17.res
+         .\Debug\exer_9_17.exe.embed.manifest.res
+         .\Debug\exer_9_17.obj
+         .\Debug\exer_9_17Dlg.obj
+         .\Debug\StdAfx.obj
+         exer_9_17.vcxproj -> C:\Users\11077\Desktop\exer9_17\.\Debug\exer_9_17.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\exer_9_17.unsuccessfulbuild".
+         Touching ".\Debug\exer_9_17.lastbuildstate".
+     1>Done Building Project "C:\Users\11077\Desktop\exer9_17\exer_9_17.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.51

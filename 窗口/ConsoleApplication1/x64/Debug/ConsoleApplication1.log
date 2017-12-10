@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+e:\数据结构\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+e:\数据结构\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+E:\数据结构\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 个无法解析的外部命令

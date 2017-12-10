@@ -1,0 +1,16 @@
+﻿  石英钟.cpp
+e:\c++program\石英钟\石英钟\石英钟.cpp(64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(67): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(68): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(75): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(94): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c++program\石英钟\石英钟\石英钟.cpp(158): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+e:\c++program\石英钟\石英钟\石英钟.cpp(163): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  石英钟.vcxproj -> E:\C++Program\石英钟\Debug\石英钟.exe
+  石英钟.vcxproj -> E:\C++Program\石英钟\Debug\石英钟.pdb (Full PDB)
